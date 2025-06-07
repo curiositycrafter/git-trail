@@ -5,6 +5,9 @@ git status is used to check the status of the files in the folder
 git add filename.extension to add it to a staging container
 git add . ->alol files in a folder gets added
 
+git remote add origin link-> ur new local folder gets connected to the git rep
+
+
 git commit -m 'message to be displayed when saved'
 git push origin branch_name 
 file is now in github
